@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sync Code: Realtime Collaborative Code Editor
 
 ## Introduction
@@ -137,3 +138,8 @@ I am Mohd Mohitur Rahaman, a tech geek, currently pursuing a Master's in Compute
 
 - [LinkedIn](https://www.linkedin.com/in/mohitur02/)
 - [GitHub](https://www.github.com/Mohitur669/)
+=======
+LiveCodeEditor is a real-time collaborative coding platform.
+Users can join rooms and edit code together in real-time.
+Built using React, Node.js and Socket.io.
+>>>>>>> e12f95098cf6a2b8ce4ba74fa1550b39753ea3f8
